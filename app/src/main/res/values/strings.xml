@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LuminaLens</string>
+    <string name="camera_mode_live">LIVE OPTICS</string>
+    <string name="camera_mode_canvas">STUDIO CANVAS</string>
+    <string name="shutter_capture_desc">Capture filtered photo</string>
+    <string name="flip_camera_desc">Switch between front and rear lens</string>
+    <string name="flash_mode_desc">Toggle camera flash mode</string>
+    <string name="grid_overlay_desc">Toggle rule-of-thirds composition grid</string>
+    <string name="compare_split_desc">Toggle real-time before and after filter split loupe</string>
+    <string name="date_stamp_desc">Toggle retro 35mm film date stamp</string>
+    <string name="open_gallery_desc">Open captured darkroom gallery</string>
+    <string name="import_photo_desc">Import photo from device picker</string>
+    <string name="share_photo_action">Share Photo</string>
+    <string name="save_device_action">Save to Device</string>
+    <string name="delete_photo_action">Delete Photo</string>
+    <string name="grant_camera_button">Enable Live Camera</string>
+    <string name="use_studio_canvas_button">Explore Live Filter Canvas</string>
+    <string name="permission_banner_title">Live Optical Viewfinder</string>
+    <string name="permission_banner_subtitle">Grant camera access for real-time hardware lens filtering, or grade curated high-dynamic-range Studio Canvas scenes immediately.</string>
+</resources>

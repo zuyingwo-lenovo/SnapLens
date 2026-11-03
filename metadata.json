@@ -1,0 +1,6 @@
+{
+  "name": "LuminaLens",
+  "description": "Pro real-time filter camera studio with live LUT color grading, optical effects, split-view comparison, and instant photo sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
